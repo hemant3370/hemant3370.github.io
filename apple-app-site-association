@@ -1,0 +1,41 @@
+{
+  "activitycontinuation": {
+    "apps": [
+      "3RTVMCHY7D.com.bcgdv.mesh-sam",
+      "3RTVMCHY7D.com.bcgdv.mesh-sam-staging",
+      "3RTVMCHY7D.com.bcgdv.mesh-sam-testing"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "3RTVMCHY7D.com.bcgdv.mesh-sam",
+      "3RTVMCHY7D.com.bcgdv.mesh-sam-staging",
+      "3RTVMCHY7D.com.bcgdv.mesh-sam-testing"
+    ]
+  },
+  "applinks": {
+    "apps": [
+      
+    ],
+    "details": [
+      {
+        "appID": "3RTVMCHY7D.com.bcgdv.mesh-sam",
+        "paths": [
+            "/favicon.ico"
+        ]
+      },
+      {
+        "appID": "3RTVMCHY7D.com.bcgdv.mesh-sam-staging",
+        "paths": [
+            "/favicon.ico"
+        ]
+      },
+      {
+        "appID": "3RTVMCHY7D.com.bcgdv.mesh-sam-testing",
+        "paths": [
+            "/favicon.ico"
+        ]
+      }
+    ]
+  }
+}
