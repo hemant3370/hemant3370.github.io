@@ -1,15 +1,15 @@
 {
   "activitycontinuation": {
     "apps": [
-      "3RTVMCHY7D.com.bcgdv.mesh-sam",
-      "3RTVMCHY7D.com.bcgdv.mesh-sam-staging",
+      "RT6KWZ42T9.com.bcg.hr.sam",
+      "RT6KWZ42T9.com.bcg.hr.sam.staging",
       "RT6KWZ42T9.com.bcg.hr.sam.test"
     ]
   },
   "webcredentials": {
     "apps": [
-      "3RTVMCHY7D.com.bcgdv.mesh-sam",
-      "3RTVMCHY7D.com.bcgdv.mesh-sam-staging",
+      "RT6KWZ42T9.com.bcg.hr.sam",
+      "RT6KWZ42T9.com.bcg.hr.sam.staging",
       "RT6KWZ42T9.com.bcg.hr.sam.test"
     ]
   },
@@ -19,13 +19,13 @@
     ],
     "details": [
       {
-        "appID": "3RTVMCHY7D.com.bcgdv.mesh-sam",
+        "appID": "RT6KWZ42T9.com.bcg.hr.sam",
         "paths": [
             "/favicon.ico"
         ]
       },
       {
-        "appID": "3RTVMCHY7D.com.bcgdv.mesh-sam-staging",
+        "appID": "RT6KWZ42T9.com.bcg.hr.sam.staging",
         "paths": [
             "/favicon.ico"
         ]
