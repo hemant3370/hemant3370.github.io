@@ -3,14 +3,14 @@
     "apps": [
       "3RTVMCHY7D.com.bcgdv.mesh-sam",
       "3RTVMCHY7D.com.bcgdv.mesh-sam-staging",
-      "3RTVMCHY7D.com.bcgdv.mesh-sam-testing"
+      "RT6KWZ42T9.com.bcg.hr.sam.test"
     ]
   },
   "webcredentials": {
     "apps": [
       "3RTVMCHY7D.com.bcgdv.mesh-sam",
       "3RTVMCHY7D.com.bcgdv.mesh-sam-staging",
-      "3RTVMCHY7D.com.bcgdv.mesh-sam-testing"
+      "RT6KWZ42T9.com.bcg.hr.sam.test"
     ]
   },
   "applinks": {
@@ -31,7 +31,7 @@
         ]
       },
       {
-        "appID": "3RTVMCHY7D.com.bcgdv.mesh-sam-testing",
+        "appID": "RT6KWZ42T9.com.bcg.hr.sam.test",
         "paths": [
             "/favicon.ico"
         ]
