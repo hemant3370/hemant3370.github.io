@@ -15,7 +15,9 @@
   },
   "applinks": {
     "apps": [
-      
+      "RT6KWZ42T9.com.bcg.hr.sam",
+      "RT6KWZ42T9.com.bcg.hr.sam.staging",
+      "RT6KWZ42T9.com.bcg.hr.sam.test"
     ],
     "details": [
       {
