@@ -1,41 +1,41 @@
 {
   "activitycontinuation": {
     "apps": [
-      "RT6KWZ42T9.com.bcg.hr.sam",
-      "RT6KWZ42T9.com.bcg.hr.sam.staging",
-      "RT6KWZ42T9.com.bcg.hr.sam.test"
+      "R4DPX84QP9.com.bcg.hr.sam",
+      "R4DPX84QP9.com.bcg.hr.sam.staging",
+      "R4DPX84QP9.com.bcg.hr.sam.test"
     ]
   },
   "webcredentials": {
     "apps": [
-      "RT6KWZ42T9.com.bcg.hr.sam",
-      "RT6KWZ42T9.com.bcg.hr.sam.staging",
-      "RT6KWZ42T9.com.bcg.hr.sam.test"
+      "R4DPX84QP9.com.bcg.hr.sam",
+      "R4DPX84QP9.com.bcg.hr.sam.staging",
+      "R4DPX84QP9.com.bcg.hr.sam.test"
     ]
   },
   "applinks": {
     "apps": [
-      "RT6KWZ42T9.com.bcg.hr.sam",
-      "RT6KWZ42T9.com.bcg.hr.sam.staging",
-      "RT6KWZ42T9.com.bcg.hr.sam.test"
+      "R4DPX84QP9.com.bcg.hr.sam",
+      "R4DPX84QP9.com.bcg.hr.sam.staging",
+      "R4DPX84QP9.com.bcg.hr.sam.test"
     ],
     "details": [
       {
-        "appID": "RT6KWZ42T9.com.bcg.hr.sam",
+        "appID": "R4DPX84QP9.com.bcg.hr.sam",
         "paths": [
             "/favicon.ico",
             "/"
         ]
       },
       {
-        "appID": "RT6KWZ42T9.com.bcg.hr.sam.staging",
+        "appID": "R4DPX84QP9.com.bcg.hr.sam.staging",
         "paths": [
             "/favicon.ico",
             "/"
         ]
       },
       {
-        "appID": "RT6KWZ42T9.com.bcg.hr.sam.test",
+        "appID": "R4DPX84QP9.com.bcg.hr.sam.test",
         "paths": [
             "/favicon.ico",
             "/"
