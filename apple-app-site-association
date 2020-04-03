@@ -23,19 +23,22 @@
       {
         "appID": "RT6KWZ42T9.com.bcg.hr.sam",
         "paths": [
-            "/favicon.ico"
+            "/favicon.ico",
+            "/"
         ]
       },
       {
         "appID": "RT6KWZ42T9.com.bcg.hr.sam.staging",
         "paths": [
-            "/favicon.ico"
+            "/favicon.ico",
+            "/"
         ]
       },
       {
         "appID": "RT6KWZ42T9.com.bcg.hr.sam.test",
         "paths": [
-            "/favicon.ico"
+            "/favicon.ico",
+            "/"
         ]
       }
     ]
