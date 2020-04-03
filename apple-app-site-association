@@ -20,6 +20,19 @@
       "R4DPX84QP9.com.bcg.hr.sam.test"
     ],
     "details": [
+    "appIDs": [
+      "R4DPX84QP9.com.bcg.hr.sam",
+      "R4DPX84QP9.com.bcg.hr.sam.staging",
+      "R4DPX84QP9.com.bcg.hr.sam.test"
+    ],
+             "components": [
+              
+               {
+                  "/": "/favicon/*",
+                  "comment": "Matches any URL whose path starts with /buy/"
+               }
+       
+             ],
       {
         "appID": "R4DPX84QP9.com.bcg.hr.sam",
         "paths": [
