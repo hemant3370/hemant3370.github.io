@@ -20,38 +20,36 @@
       "R4DPX84QP9.com.bcg.hr.sam.test"
     ],
     "details": [
-    "appIDs": [
-      "R4DPX84QP9.com.bcg.hr.sam",
-      "R4DPX84QP9.com.bcg.hr.sam.staging",
-      "R4DPX84QP9.com.bcg.hr.sam.test"
-    ],
-             "components": [
-              
-               {
-                  "/": "/favicon/*",
-                  "comment": "Matches any URL whose path starts with /buy/"
-               }
-       
-             ],
+      {"appIDs": [
+        "R4DPX84QP9.com.bcg.hr.sam",
+        "R4DPX84QP9.com.bcg.hr.sam.staging",
+        "R4DPX84QP9.com.bcg.hr.sam.test"
+      ],
+      "components": [
+        {
+          "/": "/favicon.ico",
+          "comment": "Matches any URL whose path starts with /buy/"
+        }
+      ]},
       {
         "appID": "R4DPX84QP9.com.bcg.hr.sam",
         "paths": [
-            "/favicon.ico",
-            "/"
+          "/favicon.ico",
+          "/"
         ]
       },
       {
         "appID": "R4DPX84QP9.com.bcg.hr.sam.staging",
         "paths": [
-            "/favicon.ico",
-            "/"
+          "/favicon.ico",
+          "/"
         ]
       },
       {
         "appID": "R4DPX84QP9.com.bcg.hr.sam.test",
         "paths": [
-            "/favicon.ico",
-            "/"
+          "/favicon.ico",
+          "/"
         ]
       }
     ]
