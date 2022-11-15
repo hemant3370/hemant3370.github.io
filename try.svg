@@ -39,7 +39,7 @@
             <path d="m302.258 74.6-24.796 16.85h24.796"/>
             <path d="m302.082 74.6 24.797 16.85h-24.797M300.5 89.343h1.407v34.58H300.5z"/>
         </g>
-        <text x="16" y="100" mask="url(#spr5rew4yb)" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#002F34"><tspan x="16" y="35">¿Te gusta este auto?</tspan><tspan x="16" y="53">¡Resérvalo para que </tspan><tspan x="16" y="71">no te lo ganen!</tspan></text>
+        <text x="16" y="100" mask="url(#spr5rew4yb)" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#002F34"><tspan x="16" y="135">¿Te gusta este auto?</tspan><tspan x="16" y="153">¡Resérvalo para que </tspan><tspan x="16" y="171">no te lo ganen!</tspan></text>
         <path fill="url(#3nvgtwh45c)" mask="url(#spr5rew4yb)" transform="matrix(-1 0 0 1 528.544 0)" d="M263.393 93.732h1.759v31.595h-1.759z"/>
         <path d="m297.313 21.05 108.156 5.307a3.166 3.166 0 0 1 3.01 3.162v17.165a3.166 3.166 0 0 1-3.165 3.166H297.158a3.166 3.166 0 0 1-3.165-3.166V24.212a3.166 3.166 0 0 1 3.32-3.161z" fill="#4052B6" mask="url(#spr5rew4yb)"/>
         <path fill="#6C99FF" mask="url(#spr5rew4yb)" d="M309.645 49.674h114.487v73.722H309.645z"/>
