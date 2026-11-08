@@ -111,9 +111,7 @@ Fresh daily puzzles, quick sessions, instant feedback, and useful hints across R
 
 ## Open-Source Work
 
-- [**HSPicker**](https://github.com/hemant3370/HSPicker) — A searchable, section-ready Swift picker that accepts custom data.
 - [**NEWS iOS**](https://github.com/hemant3370/NEWS-iOS) — A universal news reader using collection views, table views, and in-app browsing.
-- [**AskParrot**](https://github.com/hatchitup/parrotiOSLibrary) — An iOS library experiment for adding a real-time conversational layer to an app.
 - [**Imp**](https://github.com/hemant3370/Imp) — A browser-based view of commodity prices across Indian agricultural markets.
 - [**NEWS Feed iOS**](https://github.com/hemant3370/NEWS-Feed-iOS) · [**Chathead Browser**](https://github.com/hemant3370/chathead_browser) · [**Hospital Directory India**](https://github.com/hemant3370/Hospital-Directory-India) · [**Instagram Viewer**](https://github.com/hemant3370/InstagramViewer)
 
